@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-12T08:55:40.752Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="LBvQ3_dYVFoXwxcwawkn" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-12T09:25:26.955Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="75E2-tLy4Bi9E9WJXKh4" version="13.11.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="510k">
-    <mxGraphModel dx="1819" dy="2270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1819" dy="2189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -348,6 +348,21 @@
         </mxCell>
         <mxCell id="Uk-EUgEvKNMr6K2GvufC-1067" value="- 已进入美国市场的医疗器械的重大变更" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="690" y="-50" width="750" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Uk-EUgEvKNMr6K2GvufC-1068" value="不需要申请510k的情况" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="-140" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uk-EUgEvKNMr6K2GvufC-1069" value="- 半成品医疗器械" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="-90" width="750" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Uk-EUgEvKNMr6K2GvufC-1070" value="- 非商业目进入美国市场" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="-70" width="750" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Uk-EUgEvKNMr6K2GvufC-1071" value="- 再报装或再次贴标签（但不改变原标签）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="-50" width="750" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Uk-EUgEvKNMr6K2GvufC-1073" value="&lt;h2&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;&lt;b style=&quot;line-height: 120%&quot;&gt;510K申请类型&lt;/b&gt;&lt;/font&gt;&lt;/h2&gt;&lt;div&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;&lt;span style=&quot;line-height: 120%&quot;&gt;传统510k (Traditional)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px&quot;&gt;适用于新产品或变更预期用途的产品。审核时间为90天。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;&lt;span style=&quot;line-height: 25.2px&quot;&gt;特殊510k (Special)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px&quot;&gt;适用于产品变更且涉及QMS中质量控制的部分。审核时间为30天。&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;&lt;span style=&quot;line-height: 25.2px&quot;&gt;简化510k (Abbreviated)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 19px&quot;&gt;适用于产品基于相关指南、特殊控制或公认的标准。申报时需包含&lt;/span&gt;&lt;span style=&quot;font-size: 19px&quot;&gt;&lt;a href=&quot;https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?FR=807.87&quot;&gt;&lt;font color=&quot;#3399ff&quot;&gt;21 CFR 807.87 中规定的内容&lt;/font&gt;&lt;/a&gt;。&lt;/span&gt;&lt;span style=&quot;font-size: 19px&quot;&gt;审核时间为90天。&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#ffffff;align=left;fillColor=#f0a30a;strokeColor=#BD7000;horizontal=1;verticalAlign=top;spacing=2;spacingTop=-23;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="-130" width="560" height="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
