@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-12T12:23:03.655Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="M7KqyJP-NLCBTloeu_qC" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-12T12:28:57.105Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="F6lvfs7ZRSvvEOvGjmd-" version="13.11.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="510k">
     <mxGraphModel dx="1819" dy="2270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -371,6 +371,18 @@
         </UserObject>
         <mxCell id="Uk-EUgEvKNMr6K2GvufC-1081" value="发码机构" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.topButton;rSize=10;fontSize=17;fontColor=#ffffff;fontStyle=1;fillColor=#008cff;strokeColor=#008cff;resizeWidth=1;" vertex="1" parent="Uk-EUgEvKNMr6K2GvufC-1077">
           <mxGeometry width="170" height="50" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uk-EUgEvKNMr6K2GvufC-1085" value="" style="shape=mxgraph.signs.healthcare.cath_lab;html=1;pointerEvents=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1447" y="271" width="57.82" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="Uk-EUgEvKNMr6K2GvufC-1086" value="" style="shape=mxgraph.signs.healthcare.mri;html=1;pointerEvents=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1512" y="271" width="62.17" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="Uk-EUgEvKNMr6K2GvufC-1087" value="" style="shape=mxgraph.signs.healthcare.surgery;html=1;pointerEvents=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="271" width="60.2" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="Uk-EUgEvKNMr6K2GvufC-1088" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 21px&quot;&gt;Medical Devices&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontColor=#00CC00;align=right;fillColor=none;strokeColor=#FFFFFF;strokeWidth=5;spacingRight=5;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="260" width="380" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
