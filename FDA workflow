@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-12T12:55:11.600Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="9a86IZrxLTz975xswT5l" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-12T12:57:01.495Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="MzjtgzSc4SbJynLno9G_" version="13.11.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="510k">
     <mxGraphModel dx="1819" dy="2189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -58,8 +58,8 @@
         <mxCell id="996" value="&lt;div style=&quot;line-height: 150%&quot;&gt;Establishment&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;line-height: 150%&quot;&gt;Registration&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1275" y="1102" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="997" value="&lt;div style=&quot;line-height: 150%&quot;&gt;DON’T MESS&amp;nbsp;&lt;br&gt;&lt;span&gt;WITH ALIGNMENT&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span&gt;AND SPACING&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="948.9999999999999" y="1324" width="240" height="110" as="geometry" />
+        <mxCell id="997" value="&lt;div style=&quot;line-height: 150%&quot;&gt;Medical Device&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;line-height: 150%&quot;&gt;Listing&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="948.9999999999999" y="1324" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="998" value="如果制造商不在美国境内，需指定&lt;br&gt;美国代理人" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="948" y="419" width="260" height="40" as="geometry" />
