@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-12T14:08:38.618Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="TWn4Pm-d5fMGMmgo_nRW" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-12T14:08:54.568Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="tRYX0nJYBpjNcaT7Ljvd" version="13.11.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="510k">
     <mxGraphModel dx="1819" dy="2270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -79,9 +79,6 @@
         </mxCell>
         <mxCell id="999" value="UDI由DI(器械识别码，固定信息，版本&lt;br&gt;号或型号，贴标商名称)+PI（生产识别码&lt;br&gt;，可变信息，批号、序列号、有效期、生&lt;br&gt;产日期）组成，从发布机构获取，并最终&lt;br&gt;在GUDID系统中确认DI" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="1263" y="651" width="310" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="1001" value="&lt;div style=&quot;line-height: 120%&quot;&gt;&lt;font style=&quot;line-height: 120%&quot;&gt;&lt;div&gt;It groups content visually.&lt;br&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="text;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana;fontColor=#888888;html=1;" parent="1" vertex="1">
-          <mxGeometry x="949" y="967" width="221" height="19" as="geometry" />
         </mxCell>
         <mxCell id="1002" value="根据产品类型选择相应的申请类型" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="949" y="919" width="260" height="20" as="geometry" />
