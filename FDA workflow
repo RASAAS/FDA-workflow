@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-12T12:53:40.181Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="IjzCp0_oNLFG8b2IS08C" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-12T12:55:11.600Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="9a86IZrxLTz975xswT5l" version="13.11.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="510k">
     <mxGraphModel dx="1819" dy="2189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -55,8 +55,8 @@
         <mxCell id="995" value="&lt;div&gt;APPLY FOR 510K&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="948.9999999999999" y="875" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="996" value="&lt;div style=&quot;line-height: 150%&quot;&gt;USE A CONSISTENT&amp;nbsp;&lt;br&gt;&lt;span&gt;STYLE&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1275" y="1102" width="270" height="70" as="geometry" />
+        <mxCell id="996" value="&lt;div style=&quot;line-height: 150%&quot;&gt;Establishment&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;line-height: 150%&quot;&gt;Registration&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1275" y="1102" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="997" value="&lt;div style=&quot;line-height: 150%&quot;&gt;DON’T MESS&amp;nbsp;&lt;br&gt;&lt;span&gt;WITH ALIGNMENT&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span&gt;AND SPACING&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="948.9999999999999" y="1324" width="240" height="110" as="geometry" />
@@ -78,8 +78,8 @@
         <mxCell id="1002" value="根据产品类型选择相应的申请类型" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="949" y="919" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1003" value="Each element should have&lt;br&gt;the same styling and the same&lt;br&gt;placement.&lt;br&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="1275" y="1185" width="260" height="60" as="geometry" />
+        <mxCell id="1003" value="生产和销售用于在美国出售或出租的医&lt;br&gt;疗器械的企业需要向美国FDA进行年度&lt;br&gt;注册" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="1275" y="1185" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1004" value="Each section or group of&lt;br&gt;content should use the same&lt;br&gt;spacing to the next, and should&lt;br&gt;be strictly aligned." style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="949" y="1442" width="265" height="73" as="geometry" />
