@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-12T12:44:53.672Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="05P4zNGlBg0teG161mrA" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-12T12:47:59.679Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Od4qj0wnXTgi9pzb32Qp" version="13.11.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="510k">
     <mxGraphModel dx="1819" dy="2189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -52,8 +52,8 @@
         <mxCell id="994" value="&lt;div style=&quot;line-height: 150%&quot;&gt;UDI&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1275" y="604" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="995" value="&lt;div&gt;GIVE ME SPACE&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="948.9999999999999" y="875" width="210" height="30" as="geometry" />
+        <mxCell id="995" value="&lt;div&gt;APPLY FOR 510K&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="948.9999999999999" y="875" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="996" value="&lt;div style=&quot;line-height: 150%&quot;&gt;USE A CONSISTENT&amp;nbsp;&lt;br&gt;&lt;span&gt;STYLE&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1275" y="1102" width="270" height="70" as="geometry" />
@@ -75,8 +75,8 @@
         <mxCell id="1001" value="&lt;div style=&quot;line-height: 120%&quot;&gt;&lt;font style=&quot;line-height: 120%&quot;&gt;&lt;div&gt;It groups content visually.&lt;br&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="text;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana;fontColor=#888888;html=1;" parent="1" vertex="1">
           <mxGeometry x="949" y="967" width="221" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="1002" value="Enough &quot;white space&quot; makes&lt;br&gt;an infographic look tidy.&lt;br&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="949" y="919" width="244" height="36" as="geometry" />
+        <mxCell id="1002" value="根据产品类型选择相应的申请类型" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="949" y="919" width="260" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1003" value="Each element should have&lt;br&gt;the same styling and the same&lt;br&gt;placement.&lt;br&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="1275" y="1185" width="260" height="60" as="geometry" />
