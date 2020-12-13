@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-13T03:49:22.067Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="jxk_pbzR2DMQstoUSRqT" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-13T04:07:25.048Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="qwk2VKumtAUuwRwf0pVk" version="14.0.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="510k">
     <mxGraphModel dx="1819" dy="2270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -431,24 +431,27 @@
         </mxCell>
         <UserObject label="GMDN Code" link="https://www.gmdnagency.org/" id="sPJgsmk6Sc9iJiiMuTHJ-1067">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;labelBackgroundColor=none;" vertex="1" parent="1">
-            <mxGeometry x="1840" y="1665" width="110" height="20" as="geometry" />
+            <mxGeometry x="1840" y="1650" width="110" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="DUNS" link="http://www.dnbchina.com/index.html" id="sPJgsmk6Sc9iJiiMuTHJ-1068">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;labelBackgroundColor=none;" vertex="1" parent="1">
-            <mxGeometry x="1840" y="1695" width="110" height="20" as="geometry" />
+            <mxGeometry x="1840" y="1690" width="110" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="GUDID" link="https://gudid.fda.gov/gudid/" id="sPJgsmk6Sc9iJiiMuTHJ-1069">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;labelBackgroundColor=none;" vertex="1" parent="1">
-            <mxGeometry x="1840" y="1725" width="110" height="20" as="geometry" />
+            <mxGeometry x="1840" y="1734" width="110" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;GUDID Account&lt;/font&gt;" link="https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/UniqueDeviceIdentification/GlobalUDIDatabaseGUDID/ucm416113.htm" id="sPJgsmk6Sc9iJiiMuTHJ-1070">
           <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#000000;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;labelBackgroundColor=none;" vertex="1" parent="1">
-            <mxGeometry x="1840" y="1745" width="110" height="20" as="geometry" />
+            <mxGeometry x="1840" y="1770" width="110" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1075" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/sphericalcons/128/mouse-curser.png;sketch=0;strokeColor=#FFFFFF;fillColor=#FFFFFF;fontSize=14;fontColor=#0ED4E2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1976" y="1700" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
