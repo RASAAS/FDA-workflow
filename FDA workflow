@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-13T02:23:23.628Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="MLs_wOtKO2B0ZWxtcID_" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-13T03:12:18.798Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="sP8fWBhKmn5bRbaG51d0" version="14.0.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="510k">
     <mxGraphModel dx="1498" dy="2076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -401,19 +401,19 @@
         <mxCell id="Uk-EUgEvKNMr6K2GvufC-1107" value="GUDID" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png;dashed=1;strokeColor=#FFFFFF;strokeWidth=2;fillColor=none;fontSize=18;fontColor=#00CC00;align=center;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1710" y="1660" width="130" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1060" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rotation=90;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1060" value="&lt;font style=&quot;font-size: 15px&quot;&gt;填表申请、缴费&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rotation=90;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="650.25" width="120" height="138" as="geometry" />
         </mxCell>
-        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1061" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rotation=90;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1061" value="&lt;font style=&quot;font-size: 14px&quot;&gt;eCopy &amp;amp; RTA&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rotation=90;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="760.25" width="120" height="138" as="geometry" />
         </mxCell>
-        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1062" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rotation=90;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1062" value="&lt;font style=&quot;font-size: 14px&quot;&gt;FDA实质审查&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rotation=90;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="639.12" y="869.37" width="120" height="139.75" as="geometry" />
         </mxCell>
-        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1063" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rotation=90;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1063" value="&lt;font style=&quot;font-size: 14px&quot;&gt;DL、补充、继续审查&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rotation=90;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="979.25" width="120" height="138" as="geometry" />
         </mxCell>
-        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1064" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rotation=90;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1064" value="FDA最终决定" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rotation=90;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;fontSize=14;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="1089.75" width="120" height="138" as="geometry" />
         </mxCell>
       </root>
