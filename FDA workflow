@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2020-12-13T04:07:56.220Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="YvUF8F1Qr7I1kDvzXi85" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-17T09:03:20.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="4O-sZZXD-KD5GRoQ0kEM" version="24.5.4" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="510k">
-    <mxGraphModel dx="1819" dy="2270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1744" dy="3423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="979" value="" style="whiteSpace=wrap;strokeColor=none;fillColor=#333333;fontFamily=Verdana;fontSize=24;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
-          <mxGeometry x="320" y="-300" width="1820" height="2620" as="geometry" />
+          <mxGeometry x="329" y="-360" width="1820" height="2620" as="geometry" />
         </mxCell>
         <mxCell id="980" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;strokeColor=none;fillColor=#282828;" parent="1" vertex="1">
           <mxGeometry x="896" y="271" width="350" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1065" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;endArrow=blockThin;endFill=1;strokeColor=#FFFFFF;strokeWidth=3;fontSize=14;" edge="1" parent="1" source="981" target="sPJgsmk6Sc9iJiiMuTHJ-1062">
+        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1065" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;endArrow=blockThin;endFill=1;strokeColor=#FFFFFF;strokeWidth=3;fontSize=14;" parent="1" source="981" target="sPJgsmk6Sc9iJiiMuTHJ-1062" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="981" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;strokeColor=none;fillColor=#282828;" parent="1" vertex="1">
@@ -353,7 +353,7 @@
         <mxCell id="Uk-EUgEvKNMr6K2GvufC-1076" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/finance-31/24/finance-10-128.png;fillColor=#0ED4E2;fontSize=18;fontColor=#00CC00;align=left;" parent="1" vertex="1">
           <mxGeometry x="1171" y="681" width="79" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1071" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;strokeColor=#FFFFFF;strokeWidth=1;fontSize=14;fontColor=#0ED4E2;" edge="1" parent="1" source="Uk-EUgEvKNMr6K2GvufC-1077">
+        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1071" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;strokeColor=#FFFFFF;strokeWidth=1;fontSize=14;fontColor=#0ED4E2;" parent="1" source="Uk-EUgEvKNMr6K2GvufC-1077" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1715" y="820" as="targetPoint" />
           </mxGeometry>
@@ -400,7 +400,7 @@
         <mxCell id="Uk-EUgEvKNMr6K2GvufC-1090" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.356;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;fontSize=18;fontColor=#00CC00;endArrow=none;endFill=0;dashed=1;dashPattern=1 1;strokeWidth=3;" parent="1" source="Uk-EUgEvKNMr6K2GvufC-1089" target="Uk-EUgEvKNMr6K2GvufC-1088" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1059" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;dashed=1;dashPattern=1 1;strokeWidth=3;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="Uk-EUgEvKNMr6K2GvufC-1089" target="984">
+        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1059" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;dashed=1;dashPattern=1 1;strokeWidth=3;endArrow=classicThin;endFill=1;" parent="1" source="Uk-EUgEvKNMr6K2GvufC-1089" target="984" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uk-EUgEvKNMr6K2GvufC-1089" value="&lt;a href=&quot;https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPCD/PCDSimpleSearch.cfm&quot;&gt;&lt;font color=&quot;#0ed4e2&quot;&gt;&lt;b&gt;Classification&lt;/b&gt;&lt;/font&gt;&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;strokeWidth=2;fillColor=none;fontSize=18;fontColor=#00CC00;align=center;dashed=1;" parent="1" vertex="1">
@@ -411,47 +411,55 @@
             <mxGeometry x="1710" y="1660" width="130" height="110" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1060" value="&lt;font style=&quot;font-size: 15px&quot;&gt;填表申请、缴费&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rotation=90;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1060" value="&lt;font style=&quot;font-size: 15px&quot;&gt;填表申请、缴费&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rotation=90;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="650.25" width="120" height="138" as="geometry" />
         </mxCell>
-        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1061" value="&lt;font style=&quot;font-size: 14px&quot;&gt;eCopy &amp;amp; RTA&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rotation=90;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1061" value="&lt;font style=&quot;font-size: 14px&quot;&gt;eCopy &amp;amp; RTA&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rotation=90;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="760.25" width="120" height="138" as="geometry" />
         </mxCell>
-        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1062" value="&lt;font style=&quot;font-size: 14px&quot;&gt;FDA实质审查&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rotation=90;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1062" value="&lt;font style=&quot;font-size: 14px&quot;&gt;FDA实质审查&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rotation=90;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="639.12" y="869.37" width="120" height="139.75" as="geometry" />
         </mxCell>
-        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1063" value="&lt;font style=&quot;font-size: 14px&quot;&gt;DL、补充、继续审查&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rotation=90;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1063" value="&lt;font style=&quot;font-size: 14px&quot;&gt;DL、补充、继续审查&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rotation=90;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="979.25" width="120" height="138" as="geometry" />
         </mxCell>
-        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1064" value="FDA最终决定" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rotation=90;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;fontSize=14;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1064" value="FDA最终决定" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;rotation=90;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;fontSize=14;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="1089.75" width="120" height="138" as="geometry" />
         </mxCell>
-        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1066" value="510K流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontColor=#0ED4E2;" vertex="1" parent="1">
+        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1066" value="510K流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontColor=#0ED4E2;" parent="1" vertex="1">
           <mxGeometry x="665" y="630.25" width="70" height="20" as="geometry" />
         </mxCell>
         <UserObject label="GMDN Code" link="https://www.gmdnagency.org/" id="sPJgsmk6Sc9iJiiMuTHJ-1067">
-          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;labelBackgroundColor=none;" parent="1" vertex="1">
             <mxGeometry x="1840" y="1650" width="110" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="DUNS" link="http://www.dnbchina.com/index.html" id="sPJgsmk6Sc9iJiiMuTHJ-1068">
-          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;labelBackgroundColor=none;" parent="1" vertex="1">
             <mxGeometry x="1840" y="1690" width="110" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="GUDID" link="https://gudid.fda.gov/gudid/" id="sPJgsmk6Sc9iJiiMuTHJ-1069">
-          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;labelBackgroundColor=none;" parent="1" vertex="1">
             <mxGeometry x="1840" y="1734" width="110" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font style=&quot;font-size: 13px&quot;&gt;GUDID Account&lt;/font&gt;" link="https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/UniqueDeviceIdentification/GlobalUDIDatabaseGUDID/ucm416113.htm" id="sPJgsmk6Sc9iJiiMuTHJ-1070">
-          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#000000;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxCell style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#000000;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;labelBackgroundColor=none;" parent="1" vertex="1">
             <mxGeometry x="1840" y="1770" width="110" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1075" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/sphericalcons/128/mouse-curser.png;sketch=0;strokeColor=#FFFFFF;fillColor=#FFFFFF;fontSize=14;fontColor=#0ED4E2;align=center;" vertex="1" parent="1">
+        <mxCell id="sPJgsmk6Sc9iJiiMuTHJ-1075" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/sphericalcons/128/mouse-curser.png;sketch=0;strokeColor=#FFFFFF;fillColor=#FFFFFF;fontSize=14;fontColor=#0ED4E2;align=center;" parent="1" vertex="1">
           <mxGeometry x="1976" y="1700" width="40" height="40" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PBIST2BGCMZOyhNgiXYC" name="Page-2">
+    <mxGraphModel dx="1221" dy="1578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
