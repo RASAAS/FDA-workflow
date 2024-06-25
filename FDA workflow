@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T09:21:17.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Z1OgO2gjtmgXZDvOq4I-" version="24.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-25T09:29:31.939Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="zlh9RGo5oKFW_668qrvX" version="24.6.0" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="510k">
     <mxGraphModel dx="1744" dy="3423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -541,7 +541,7 @@
         <mxCell id="xgsLDPlA19dnVAJ_Qnef-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1820" width="380" height="660" as="geometry" />
         </mxCell>
-        <mxCell id="xgsLDPlA19dnVAJ_Qnef-25" value="&lt;ul&gt;&lt;li&gt;如需要，更新：项目规划&lt;/li&gt;&lt;li&gt;如需要，更新：RA/QA计划&lt;/li&gt;&lt;li&gt;如需要，更新：产品开发计划 / 软件开发计划...&lt;/li&gt;&lt;li&gt;如需要，更新：风险管理文档&lt;/li&gt;&lt;li&gt;如需要，更新：各种设计图纸和设计参数&lt;/li&gt;&lt;li&gt;如需要，更新：标签、说明书设计标准&lt;/li&gt;&lt;li&gt;如需要，更新：DMR&lt;/li&gt;&lt;li&gt;如需要，更新：临床评价计划&lt;/li&gt;&lt;li&gt;如需要，更新：验证与确认计划&lt;/li&gt;&lt;li&gt;设计评审：对各项需求、设计参数、缺陷、风险等进行评审&lt;/li&gt;&lt;li&gt;DHF审核：包括对Stage 2 阶段审核的验证和先前活动的关闭&lt;/li&gt;&lt;li&gt;Stage 3 评审&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="xgsLDPlA19dnVAJ_Qnef-25" value="&lt;ul&gt;&lt;li&gt;如需要，更新：项目规划&lt;/li&gt;&lt;li&gt;如需要，更新并最终确定：RA/QA计划&lt;/li&gt;&lt;li&gt;如需要，更新：产品开发计划 / 软件开发计划...&lt;/li&gt;&lt;li&gt;如需要，更新并发布：风险管理文档&lt;/li&gt;&lt;li&gt;如需要，更新：各种设计图纸和设计参数&lt;/li&gt;&lt;li&gt;如需要，更新：标签、说明书设计标准&lt;/li&gt;&lt;li&gt;如需要，更新并确定：DMR&lt;/li&gt;&lt;li&gt;如需要，更新并确定：临床评价计划，完成初版临床评价报告&lt;/li&gt;&lt;li&gt;更新并确定：验证与确认计划和报告&lt;/li&gt;&lt;li&gt;设计评审：对各项需求、设计参数、缺陷、风险等进行评审&lt;/li&gt;&lt;li&gt;DHF审核：包括对Stage 2 阶段审核的验证和先前活动的关闭&lt;/li&gt;&lt;li&gt;Stage 3 评审&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="250" y="1835" width="360" height="460" as="geometry" />
         </mxCell>
         <mxCell id="xgsLDPlA19dnVAJ_Qnef-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
