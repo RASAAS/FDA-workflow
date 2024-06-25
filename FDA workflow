@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T01:29:32.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="gSWlfyA0aOzMLT7aLnBm" version="24.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-25T01:44:39.349Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="2u67A_9UlANnDR0JtLJz" version="24.6.0" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="510k">
     <mxGraphModel dx="1744" dy="3423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -456,7 +456,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PBIST2BGCMZOyhNgiXYC" name="Page-2">
-    <mxGraphModel dx="2304" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1357" dy="1753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -483,6 +483,9 @@
         </mxCell>
         <mxCell id="xgsLDPlA19dnVAJ_Qnef-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="120" width="380" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xgsLDPlA19dnVAJ_Qnef-6" value="&lt;div&gt;初步规划项目计划&lt;/div&gt;&lt;div&gt;收集用户需求（包括初步评估可用性）&lt;br&gt;&lt;/div&gt;&lt;div&gt;评估合规要求，制定初步计划&lt;/div&gt;&lt;div&gt;初始草案：产品开发计划&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="250" y="130" width="310" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
