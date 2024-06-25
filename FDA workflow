@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T02:04:23.396Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="sqJu2Qa87XE2-Aq8obDs" version="24.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-25T02:27:45.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="mrE5DxOyreVlNdYEXQlS" version="24.6.0" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="510k">
     <mxGraphModel dx="1744" dy="3423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -484,8 +484,29 @@
         <mxCell id="xgsLDPlA19dnVAJ_Qnef-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="120" width="380" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="xgsLDPlA19dnVAJ_Qnef-6" value="&lt;div&gt;初步规划项目: 时间，任务...&lt;/div&gt;&lt;div&gt;收集用户需求（包括初步评估可用性）&lt;br&gt;&lt;/div&gt;&lt;div&gt;评估合规要求，制定初步RA/QA计划&lt;/div&gt;&lt;div&gt;QMS工具确认计划（如有）&lt;/div&gt;&lt;div&gt;初始草案：产品开发计划 / 软件开发计划...&lt;/div&gt;&lt;div&gt;DHF审核计划&lt;/div&gt;&lt;div&gt;Stage 0 评审&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="xgsLDPlA19dnVAJ_Qnef-6" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;初步规划项目: 时间，任务...&lt;/li&gt;&lt;li&gt;收集用户需求（包括初步评估可用性）&lt;/li&gt;&lt;li&gt;评估合规要求，制定初步RA/QA计划&lt;/li&gt;&lt;li&gt;QMS工具确认计划（如有）&lt;/li&gt;&lt;li&gt;初始草案：产品开发计划 / 软件开发计划...&lt;/li&gt;&lt;li&gt;DHF审核计划&lt;/li&gt;&lt;li&gt;Stage 0 评审&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="250" y="130" width="360" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xgsLDPlA19dnVAJ_Qnef-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="120" width="350" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xgsLDPlA19dnVAJ_Qnef-8" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;ol&gt;&lt;li&gt;Project Plan [Initial]&lt;/li&gt;&lt;li&gt;User Requirements [Initial]&lt;/li&gt;&lt;li&gt;Regulatory Assessment / RQA Plan [Initial]&lt;/li&gt;&lt;li&gt;QMS Tools validation plan&lt;/li&gt;&lt;li&gt;Product Development Plan [Initial]&lt;/li&gt;&lt;li&gt;Software Requirements Specifications [Initial]&lt;/li&gt;&lt;li&gt;DHF Audit Plan&lt;/li&gt;&lt;li&gt;Stage 0 Review&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="620" y="130" width="350" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xgsLDPlA19dnVAJ_Qnef-9" value="阶段" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xgsLDPlA19dnVAJ_Qnef-10" value="活动" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xgsLDPlA19dnVAJ_Qnef-11" value="文档" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="620" y="80" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xgsLDPlA19dnVAJ_Qnef-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="380" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="xgsLDPlA19dnVAJ_Qnef-13" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;如需要，更新：项目规划&lt;/li&gt;&lt;li&gt;收集用户需求（包括初步评估可用性）&lt;/li&gt;&lt;li&gt;评估合规要求，制定初步RA/QA计划&lt;/li&gt;&lt;li&gt;QMS工具确认计划（如有）&lt;/li&gt;&lt;li&gt;初始草案：产品开发计划 / 软件开发计划...&lt;/li&gt;&lt;li&gt;DHF审核计划&lt;/li&gt;&lt;li&gt;Stage 0 评审&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="250" y="330" width="360" height="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
