@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T12:04:42.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ZrVsvQC50XwO6r7YGxDh" version="24.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-25T12:07:26.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="SjyCZNL6KD5WVG7idP0W" version="24.6.0" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="510k">
     <mxGraphModel dx="1744" dy="3423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -602,6 +602,20 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="2412" as="sourcePoint" />
             <mxPoint x="250" y="2568" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xgsLDPlA19dnVAJ_Qnef-41" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=1.011;entryY=0.316;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF66FF;strokeWidth=4;" edge="1" parent="1" target="xgsLDPlA19dnVAJ_Qnef-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="2490" as="sourcePoint" />
+            <mxPoint x="1030" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1040" y="2470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xgsLDPlA19dnVAJ_Qnef-42" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;设计变更&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xgsLDPlA19dnVAJ_Qnef-41">
+          <mxGeometry x="0.0117" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
