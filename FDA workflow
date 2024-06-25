@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T12:07:26.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="SjyCZNL6KD5WVG7idP0W" version="24.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-25T12:08:11.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="nW1fSAanEZgc9zWtjz_j" version="24.6.0" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="510k">
     <mxGraphModel dx="1744" dy="3423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -460,6 +460,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xgsLDPlA19dnVAJ_Qnef-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="1120" height="2640" as="geometry" />
+        </mxCell>
         <mxCell id="BVaGwiOpcJRQnmP7ozSf-1" value="产品生命周期各阶段活动" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="20" y="10" width="260" height="30" as="geometry" />
         </mxCell>
